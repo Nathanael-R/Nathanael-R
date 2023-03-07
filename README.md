@@ -18,7 +18,6 @@
 </div>
 
 ---
-
 ### About Me:
 
 - :telescope: I’m a FrontEnd and Freelance Developer that uses custom code and CMS like WordPress to build Web applications.
@@ -54,4 +53,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanael-r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Portfolio Website :
-<a href="nathanael.design-prodigy.com.ng" target="_blank">Portfolio Site</a>
+<a href="nathanael.design-prodigy.com.ng" target="_blank">View Portfolio Site</a>
