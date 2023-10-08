@@ -53,4 +53,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanael-r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My Portfolio Website :
-<a href="nathanael-r.vercel.app" target="_blank">View Portfolio Site</a>
+<a href="https://nathanael-r.vercel.app" target="_blank">View Portfolio Site</a>
